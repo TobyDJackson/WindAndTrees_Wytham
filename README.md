@@ -3,12 +3,12 @@ Scripts used to calculate critical wind speeds from simulations and create graph
 
 This repo contains the key scripts and data used to make the graphs for the paper 'A new architectural understanding on wind damage in a natural forest'
 
-The folder 'Data' contains all the summary data necessary to reproduce the results of this paper.
+The folder 'Data' contains all the summary data in .mat format.
 The script OneHa_Full makes most of the figures and contains all the statistics. 
 The Phenology script makes Figure 6.
 Figure 1 and the strain data analysis is not in this repo, see WindAndTrees_StrainDataProcessing.
 
-The excel file is not really needed here, all the data is in the .mat files, it is just a chance to get an overview of the data. 
+The excel file is not necessary, all the data is in the .mat files, it is just a chance to get an overview of the data. 
 
 The folder 'Background' contains the import scripts and the script I used to read in results from finite element analysis. 
 If you want to run the finite element analysis you would first need to download the QSMs 
