@@ -1,6 +1,8 @@
 # WindAndTrees_Wytham
 Scripts used to calculate critical wind speeds from simulations and create graphs for paper on Wytham Woods
 
+![alt text](https://github.com/TobyDJackson/WindAndTrees_Wytham/blob/master/Trees%20colored%20by%20CWS.tif)
+
 This repo contains the key scripts and data used to make the graphs for the paper 'A new architectural understanding on wind damage in a natural forest'
 
 The folder 'Data' contains all the summary data in .mat format.
