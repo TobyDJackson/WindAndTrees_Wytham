@@ -1,7 +1,8 @@
 # WindAndTrees_Wytham
-This repo contains the key scripts and data used to make the graphs for the paper 'A new architectural understanding on wind damage in a natural forest'
+This repo contains the data and scripts used to make the graphs for:
+Jackson et al 2019 'A new architectural understanding on wind damage in a natural forest'. Frontiers in Forests and Global Change.
 
-![alt text](https://github.com/TobyDJackson/WindAndTrees_NaturalFrequencies/blob/master/figures/fig1.png)
+![alt text](https://github.com/TobyDJackson/WindAndTrees_Wytham/blob/master/Trees%20colored%20by%20CWS.png)
 
 The folder 'Data' contains all the summary data in .mat format.
 The script OneHa_Full makes most of the figures and contains all the statistics. 
