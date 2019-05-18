@@ -8,7 +8,7 @@ Jackson et al 2019 'A new architectural understanding on wind damage in a natura
 - The folder 'Data' contains all the summary data in .mat format.
 - The script OneHa_Full makes most of the figures and contains all the statistics. 
 - The Phenology script makes Figure 6.
-- Figure 1 and the strain data analysis is not in this repo, see WindAndTrees_StrainDataProcessing.
+- Figure 1 and the strain data analysis are not in this repo, see WindAndTrees_StrainDataProcessing.
 - The excel file is included to give an overview of the data. 
 - The folder 'Background' contains the import scripts and the script I used to read in results from finite element analysis. 
 
